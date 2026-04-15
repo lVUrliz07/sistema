@@ -14,17 +14,19 @@ Incluye múltiples vistas listas para usar en tiendas online, con diseño respon
 - Estructura organizada de estilos con SCSS  
 - Plantilla lista para personalización  
 
----
 
 ## Estructura del Proyecto
-├── css/ # Archivos CSS compilados
-├── scss/ # Estilos fuente en SCSS
-├── js/ # Scripts principales
-├── vendors/ # Librerías externas
-├── img/ # Recursos gráficos
-├── fonts/ # Tipografías
-├── *.html # Vistas del sitio
-├── contact_process.php # Procesamiento de formulario
+
+| Carpeta / Archivo        | Descripción                              |
+|--------------------------|------------------------------------------|
+| `css/`                   | Archivos CSS compilados                  |
+| `scss/`                  | Estilos fuente en SCSS                   |
+| `js/`                    | Scripts principales                      |
+| `vendors/`               | Librerías externas                       |
+| `img/`                   | Recursos gráficos                        |
+| `fonts/`                 | Tipografías                              |
+| `*.html`                 | Vistas del sitio                         |
+| `contact_process.php`    | Procesamiento de formulario              |
 
 ---
 
